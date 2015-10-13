@@ -1,5 +1,5 @@
 //
-//  DetailViewController.swift
+//  SophieViewController.swift
 //  AboutMe
 //
 //  Created by James Pacheco on 10/12/15.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class DetailViewController: UIViewController {
+class SophieViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

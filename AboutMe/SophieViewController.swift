@@ -24,5 +24,10 @@ class SophieViewController: UIViewController {
     @IBAction func dismissSophie(sender: AnyObject) {
         self.dismissViewControllerAnimated(true, completion: nil)
     }
+    
+    func testFunction() {
+        
+        // just a test
+    }
 
 }
